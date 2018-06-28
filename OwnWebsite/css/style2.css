@@ -1,0 +1,40 @@
+body {
+ background-color: #ffe8eb;
+}
+
+h1 {
+  text-align: center;
+  font-size: 500%;
+  color: #5e2399;
+  font: georgia, serif;
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+  text-align: center;
+  font-size: 200%;
+  color: #2b97bf;
+}
+h3 {
+  text-align: center;
+  font-size: 150%;
+}
+h4 {
+  text-align: left;
+  font-size: 300%;
+  color: #7fd8f9;
+}
+h5 {
+  font-size: 200%;
+  color: #853eef;
+}
+h6 {
+  font-size: 200%;
+  text-align: center;
+}
+
+/*code for the header thing*/

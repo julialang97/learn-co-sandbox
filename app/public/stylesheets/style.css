@@ -1,0 +1,93 @@
+
+body {
+background: #e2b1be;
+}
+
+h1 {
+  text-align: center;
+  border-style: ridge;
+  border-color: #9698bc;
+  border-width: 10px;
+}
+
+tip {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: center;
+  background: #e2b1be;
+}
+
+temp {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+weather {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+location {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+skin {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+allergies {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+acne {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+free {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+vegan {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+money {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+.form {
+  color: #6a647f;
+  font:26px "Palatino" ;
+  text-align: left;
+  background: #e2b1be;
+}
+
+.button {
+  background-color: #6a647f;
+  font:20px "Palatino";
+}
